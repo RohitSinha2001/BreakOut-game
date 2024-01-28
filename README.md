@@ -1,10 +1,6 @@
-# Gamedev Canvas Workshop - Lesson 10: Finishing Up
+# Break-Out Game
+This is a simple HTML5 canvas game . The game features a ball, a paddle, and bricks to break.
 
-This is a simple HTML5 canvas game created during a gamedev workshop. The game features a ball, a paddle, and bricks to break.
-
-## Preview
-
-![Game Preview](link_to_preview_image.png)
 
 ## How to Play
 
